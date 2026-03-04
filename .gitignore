@@ -1,0 +1,38 @@
+# Executables
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+compile_commands.json
+CMakeLists.txt.user
+
+# Build directories
+build/
+cmake-build*/
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+*.swo
+*~
+
+# Neovim / Vim
+.nvim/
+.vim/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+.cache/
